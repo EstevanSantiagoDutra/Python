@@ -1,0 +1,13 @@
+n = int(input('insira um numero: '))
+n1 = int (n*1)
+n2 = int (n*2)
+n3 = int (n*3)
+n4 = int (n*4)
+n5 = int (n*5)
+n6 = int (n*6)
+n7 = int (n*7)
+n8 = int (n*8)
+n9 = int (n*9)
+n10 = int (n*10)
+print('Segue a tabuada: \n{}\n{}\n{}\n{}\n{}\n{}\n{}\n{}\n{}\n{}'.format(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10))
+#\n = QUEBRA DE LINHA
