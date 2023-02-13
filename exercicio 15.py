@@ -1,6 +1,0 @@
-km = float(input('Insira os KM percorridos: '))
-dia = float(input('Dias que o carro ficou alugado: '))
-x = float(dia*60)
-z = float(km*0.15)
-total = float(z+x)
-print ('O valor total há ser pago é de: R${:.2f}'.format(total))
